@@ -15,4 +15,4 @@ Full-stack developer — Node.js · React · Next.js · TypeScript · Python
 ## 🚀 Projects
 - [ToolSuite](link) — 30+ tools, Next.js/TypeScript
 - [Reclaim](link) — Full-stack auth system, microservices
-- [Obscura](https://github.com/iqbaliqbaloo/Obscura) — Fully automated Urdu YouTube channel — AI scripts, TTS voice, video assembly, and 5-platform upload via GitHub Actions. Zero manual work.
+- [Obscura](https://github.com/iqbaliqbaloo/Obscura) — Fully automated Urdu YouTube channel — AI scripts, TTS voice, video assembly, and 5-platform upload via GitHub Actions. Zero manual work using python.
