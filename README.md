@@ -16,6 +16,7 @@
 - **[ToolSuite](link)** — 30+ web tools built with Next.js & TypeScript
 - **[Reclaim](link)** — Full-stack auth system using microservices architecture
 - **[Obscura](https://github.com/iqbaliqbaloo/Obscura)** — Fully automated Urdu YouTube channel. AI scripts, TTS, video assembly, 5-platform upload via GitHub Actions. Zero manual work.
+- **[createAutoNews](https://github.com/iqbaliqbaloo/createAutoNews)** — 3-pipeline AI news autoposter. Fetches, filters with CLIP + LLaMA, composes branded images, and posts to Facebook, Instagram & Telegram via GitHub Actions. Zero manual work.
 
 ## 📊 GitHub Stats
 ![Iqbal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iqbaliqbaloo&show_icons=true&theme=dark)
